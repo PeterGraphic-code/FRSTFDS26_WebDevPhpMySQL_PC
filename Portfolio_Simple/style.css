@@ -1,0 +1,23 @@
+body {
+background-color: #f5f5f5;
+font-family: Arial, sans-serif;
+color: #333;
+}
+h1, h2, h3 {
+color: #0A47A3;
+}
+section {
+padding: 20px 0;
+}
+.card {
+border: 1px solid #ddd;
+border-radius: 5px;
+padding: 20px;
+transition: transform 0.3s;
+}
+.card:hover {
+transform: translateY(-5px);
+}
+footer {
+margin-top: 50px;
+}
